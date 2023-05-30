@@ -1,0 +1,3 @@
+rootProject.name='Flat Stomach Workout'
+include ':app'
+include ':myapplication'
